@@ -2,7 +2,7 @@
 
 This is a rest api using TS, NODEJS, POSTGRESQL.
 
-This api can create, update, delete and list users with a name and email. 
+This api can create, update, delete and list users with a name and email.
 
 ## Technologies used for this project :computer:
 
